@@ -27,6 +27,8 @@ gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 #Use Font Awesome Icons
 gem 'font-awesome-rails'
+#Use Devise for authentication and account features
+gem 'devise'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
