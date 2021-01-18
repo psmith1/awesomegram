@@ -1,24 +1,21 @@
-# README
+# TECH STACKS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Back-end:
+  - Ruby 2.6
+  - Rails 6.0.3
+  - Database: Postgres 9.6
+- Gems: Devise, Kaminari, Bootstrap
+- Front-end:
+  - HTML, CSS, Javascript, jQuery
+  - Bootstrap 4.1.1
 
-Things you may want to cover:
+# INSTRUCTIONS
 
-* Ruby version
+Follow these instructions after cloning the Git repo:
 
-* System dependencies
+* ‘Bundle install’ to update gems
+* `yarn install --check-files` to check and update packages
+* ‘rails db:create’ to create the database
+* ‘bin/rails db:migrate RAILS_ENV=development’ to migrate the database
+* ‘rails server’ to run
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
