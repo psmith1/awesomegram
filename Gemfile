@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 #Use Bootstrap
-gem 'bootstrap', '~> 4.1.1'
+gem 'bootstrap', '~> 4.3.1'
 #Use jQuery
 gem 'jquery-rails'
 #Use Font Awesome Icons
