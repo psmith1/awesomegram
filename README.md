@@ -13,9 +13,9 @@
 
 Follow these instructions after cloning the Git repo:
 
-* ‘Bundle install’ to update gems
+* `Bundle install` to update gems
 * `yarn install --check-files` to check and update packages
-* ‘rails db:create’ to create the database
-* ‘bin/rails db:migrate RAILS_ENV=development’ to migrate the database
-* ‘rails server’ to run
+* `rails db:create` to create the database
+* `bin/rails db:migrate RAILS_ENV=development` to migrate the database
+* `rails server` to run
 
