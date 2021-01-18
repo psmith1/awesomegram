@@ -7,7 +7,7 @@
 - Gems: Devise, Kaminari, Bootstrap
 - Front-end:
   - HTML, CSS, Javascript, jQuery
-  - Bootstrap 4.1.1
+  - Bootstrap 4.3.1
 
 # INSTRUCTIONS
 
